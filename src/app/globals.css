@@ -1,0 +1,236 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Base Colors */
+    --background: #0B0B10;
+    --surface: #1a1a1a;
+    --surface2: #252525;
+    --card: #1e1e1e;
+    --cardBorder: #2a2a2a;
+    --text: #ffffff;
+    --text-secondary: #a0a0a0;
+    --muted: #6b7280;
+
+    /* Brand Pink - Orchid Pink System */
+    --accent: #FF78C8;
+    --accentCTA: #FF5FB8;
+    --accentPressed: #FF4FB5;
+    --accentSoft: rgba(255,154,216,0.15);
+    --accentBorderSoft: rgba(255,120,200,0.14);
+
+    /* Pastel Tile Colors */
+    --pastel-cream: #FFE6C7;
+    --pastel-pink: #FFD1E6;
+    --pastel-lavender: #D9D1FF;
+    --pastel-mint: #C8FFE9;
+    --pastel-ice: #CFE9FF;
+
+    /* ============================================================
+       PINK-SPECTRUM NEON CARD PALETTE
+       Cohesive gradients tied to brand orchid pink #FF78C8
+       High-contrast dark UI with vibrant glow effects
+       ============================================================ */
+
+    /* Card Variant A (Pink -> Fuchsia) */
+    --neon-rose-bg: linear-gradient(135deg, rgba(255,61,165,0.20) 0%, rgba(255,79,216,0.14) 45%, rgba(11,11,16,0.0) 100%);
+    --neon-rose-border: rgba(255,61,165,0.45);
+    --neon-rose-glow: 0 0 32px rgba(255,61,165,0.18);
+    --neon-rose-chip: rgba(255,61,165,0.20);
+
+    /* Card Variant B (Fuchsia -> Purple) */
+    --neon-violet-bg: linear-gradient(135deg, rgba(255,79,216,0.18) 0%, rgba(138,63,252,0.14) 50%, rgba(11,11,16,0.0) 100%);
+    --neon-violet-border: rgba(255,79,216,0.40);
+    --neon-violet-glow: 0 0 32px rgba(255,79,216,0.16);
+    --neon-violet-chip: rgba(255,79,216,0.18);
+
+    /* Card Variant C (Purple -> Indigo) */
+    --neon-blue-bg: linear-gradient(135deg, rgba(138,63,252,0.18) 0%, rgba(59,91,255,0.13) 55%, rgba(11,11,16,0.0) 100%);
+    --neon-blue-border: rgba(138,63,252,0.40);
+    --neon-blue-glow: 0 0 32px rgba(138,63,252,0.16);
+    --neon-blue-chip: rgba(138,63,252,0.18);
+
+    /* Card Variant D (Indigo -> Cyan) */
+    --neon-teal-bg: linear-gradient(135deg, rgba(59,91,255,0.16) 0%, rgba(0,212,255,0.12) 55%, rgba(11,11,16,0.0) 100%);
+    --neon-teal-border: rgba(0,212,255,0.36);
+    --neon-teal-glow: 0 0 32px rgba(0,212,255,0.14);
+    --neon-teal-chip: rgba(0,212,255,0.16);
+
+    /* Card Variant E (Cyan -> Mint) */
+    --neon-fuchsia-bg: linear-gradient(135deg, rgba(0,212,255,0.14) 0%, rgba(27,255,184,0.10) 60%, rgba(11,11,16,0.0) 100%);
+    --neon-fuchsia-border: rgba(27,255,184,0.32);
+    --neon-fuchsia-glow: 0 0 32px rgba(27,255,184,0.12);
+    --neon-fuchsia-chip: rgba(27,255,184,0.14);
+
+    /* shadcn/ui variables */
+    --border: 0 0 0 1px rgba(255, 255, 255, 0.1);
+    --input: 0 0 0 1px rgba(255, 255, 255, 0.1);
+    --ring: 248 81 138;
+    --radius: 0.75rem;
+  }
+}
+
+@layer base {
+  * {
+    border-color: hsl(var(--border));
+  }
+  body {
+    background-color: var(--background);
+    color: var(--text);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* Typography Styles */
+.text-heading-xl {
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.text-heading-lg {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.text-heading-md {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.text-body-lg {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.text-body-md {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.text-body-sm {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+/* Pastel Tile Variants */
+.pastel-tile-cream {
+  background-color: var(--pastel-cream);
+  color: #1a1a1a;
+}
+
+.pastel-tile-pink {
+  background-color: var(--pastel-pink);
+  color: #1a1a1a;
+}
+
+.pastel-tile-lavender {
+  background-color: var(--pastel-lavender);
+  color: #1a1a1a;
+}
+
+.pastel-tile-mint {
+  background-color: var(--pastel-mint);
+  color: #1a1a1a;
+}
+
+.pastel-tile-ice {
+  background-color: var(--pastel-ice);
+  color: #1a1a1a;
+}
+
+/* ============================================================
+   NEON GLASS CARD UTILITY CLASSES
+   Premium vivid cards with glow effects
+   ============================================================ */
+
+.neon-card-rose {
+  background: var(--neon-rose-bg);
+  border: 1px solid var(--neon-rose-border);
+  box-shadow: var(--neon-rose-glow);
+  color: var(--text);
+}
+
+.neon-card-violet {
+  background: var(--neon-violet-bg);
+  border: 1px solid var(--neon-violet-border);
+  box-shadow: var(--neon-violet-glow);
+  color: var(--text);
+}
+
+.neon-card-blue {
+  background: var(--neon-blue-bg);
+  border: 1px solid var(--neon-blue-border);
+  box-shadow: var(--neon-blue-glow);
+  color: var(--text);
+}
+
+.neon-card-teal {
+  background: var(--neon-teal-bg);
+  border: 1px solid var(--neon-teal-border);
+  box-shadow: var(--neon-teal-glow);
+  color: var(--text);
+}
+
+.neon-card-fuchsia {
+  background: var(--neon-fuchsia-bg);
+  border: 1px solid var(--neon-fuchsia-border);
+  box-shadow: var(--neon-fuchsia-glow);
+  color: var(--text);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--surface);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--surface2);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--muted);
+}
+
+/* Animations */
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slide-up {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.3s ease-out;
+}
+
+.animate-slide-up {
+  animation: slide-up 0.3s ease-out;
+}

@@ -1,0 +1,441 @@
+{
+  "landing": {
+    "meta": {
+      "title": "DonLeo — Tu Aliao Romántico con IA",
+      "description": "Respuestas instantáneas + entrenamiento real. DonLeo te mantiene suave, divertido y en control."
+    },
+    "header": {
+      "login": "Iniciar sesión",
+      "getStarted": "Empezar"
+    },
+    "hero": {
+      "trustUsers": "10,000+ usuarios",
+      "trustRating": "4.9★",
+      "trustWorks": "Realmente funciona",
+      "titleLine1": "Deja de pensar demasiado.",
+      "titleLine2Start": "Empieza a",
+      "titleLine2Highlight": "conseguir respuestas.",
+      "subtitle": "Sube una captura de pantalla. Obtén respuestas perfectas en tu estilo exacto. Chatea con DonLeo cuando necesites un wingman.",
+      "cta": "Prueba DonLeo Gratis",
+      "encrypted": "Cifrado de extremo a extremo",
+      "notStored": "Las capturas nunca se almacenan",
+      "appStore": "Descargar en",
+      "appStoreName": "App Store",
+      "googlePlay": "Disponible en",
+      "googlePlayName": "Google Play",
+      "comingSoon": "Próximamente"
+    },
+    "modes": {
+      "title": "Cinco sabores de suave",
+      "subtitle": "Cualquiera que sea la situación, hay un estilo que funciona. Elige tu modo, obtén una respuesta que realmente llegue.",
+      "smooth": {
+        "name": "Suave y Directo",
+        "description": "Confiado y claro. Cuando vas en serio."
+      },
+      "funny": {
+        "name": "Divertido y Pícara",
+        "description": "Rompe el hielo. Hazlos reír (contigo, no de ti)."
+      },
+      "short": {
+        "name": "Corto y Contundente",
+        "description": "Sigue avanzando. Poco esfuerzo, alto impacto."
+      },
+      "nerd": {
+        "name": "Nerd / Cultura Pop",
+        "description": "Encuentra terreno común. Referencia inteligente, referencia correcta."
+      },
+      "savage": {
+        "name": "Salvaje e Ingenioso",
+        "description": "Energía audaz. Para cuando necesitas hacer tu movimiento."
+      }
+    },
+    "wingman": {
+      "title": "Tu wingman de IA (que realmente lo entiende)",
+      "subtitle": "¿Trabado en qué decir? ¿Sobrepensando cada coma? DonLeo te ayuda a leer señales, crear respuestas y mantener la confianza. Comparte una captura o pega texto—obtén asesoría instantánea + opciones que suenan como tú.",
+      "feature1Title": "Lee el ambiente",
+      "feature1Desc": "Entiende lo que realmente están diciendo (no solo lo que escribieron)",
+      "feature2Title": "Obtén opciones, no órdenes",
+      "feature2Desc": "Múltiples sugerencias de respuesta. Elige la que se sienta bien.",
+      "feature3Title": "Pule tus borradores",
+      "feature3Desc": "Reescribe tu mensaje antes de enviarlo. Sin arrepentimientos.",
+      "feature4Title": "Decodifica las señales",
+      "feature4Desc": "Sab dónde estás. No más juegos de adivinanzas.",
+      "chatTitle": "DonLeo",
+      "chatOnline": "En línea",
+      "chatMessage1": "¡Oye! Noté que has estado chateando con Sarah unos días. ¿Cómo va?",
+      "chatMessage2": "¡Bien! Pero no estoy seguro si realmente le interesa...",
+      "chatMessage3": "¡Déjame ayudar! Comparte la conversación y te diré qué está pasando realmente."
+    },
+    "privacy": {
+      "title": "Tus asuntos quedan tuyos",
+      "description": "Las capturas se procesan una vez y nunca se almacenan. Los chats están cifrados. No entrenamos con tus datos. Lo que pasa en DonLeo, se queda en DonLeo."
+    },
+    "howItWorks": {
+      "title": "Tres pasos para la suavidad",
+      "subtitle": "De mirar tu teléfono a presionar enviar—rápido.",
+      "step1Title": "Sube la captura de pantalla",
+      "step1Desc": "Comparte la conversación que estás sobrepensando",
+      "step2Title": "Elige tu estilo",
+      "step2Desc": "Elige el modo que coincida con el momento",
+      "step3Title": "Copia, envía, vibra",
+      "step3Desc": "Pégalo en el chat. Tú puedes."
+    },
+    "pricing": {
+      "title": "Prueba gratis. Actualiza cuando estés ganando.",
+      "description": "10 respuestas gratis cada día. Ilimitado cuando estés listo para subir de nivel.",
+      "cta": "Comenzar Gratis Ahora"
+    },
+    "socialProof": {
+      "users": "+10,000+ usuarios",
+      "rating": "Calificación 4.9/5"
+    },
+    "footer": {
+      "tagline": "Tu wingman con buen gusto.",
+      "product": "Producto",
+      "features": "Características",
+      "pricing": "Precios",
+      "faq": "Preguntas",
+      "company": "Empresa",
+      "about": "Acerca de",
+      "blog": "Blog",
+      "careers": "Carreras",
+      "legal": "Legal",
+      "privacy": "Privacidad",
+      "terms": "Términos",
+      "contact": "Contacto",
+      "copyright": "© 2025 DonLeo. Todos los derechos reservados."
+    }
+  },
+  "dashboard": {
+    "greeting": {
+      "morning": "Buenos días",
+      "afternoon": "Buenas tardes",
+      "evening": "Buenas noches"
+    },
+    "ready": "¿Listo para llevar tu juego de citas al siguiente nivel?",
+    "chatCard": {
+      "title": "Chatea con DonLeo",
+      "subtitle": "Tu wingman de IA personal está listo para ayudar",
+      "online": "En línea"
+    },
+    "marketing": {
+      "title": "Tu wingman que realmente lee la sala.",
+      "subtitle": "Suelta el contexto. Te diré qué decir, qué NO decir y por qué funciona.",
+      "pickCard": "Elige una tarjeta abajo para comenzar."
+    },
+    "featuresTitle": "¿Con qué puedo ayudar?"
+  },
+  "features": {
+    "analyze": {
+      "title": "Traduciré el subtexto",
+      "description": "Capturas de pantalla entran. Significado sale. (Sí, incluso ese 'jaja'.)"
+    },
+    "replies": {
+      "title": "3 respuestas. Cero pánico.",
+      "description": "Elige el estilo: suave, divertido, salvaje... tú sigues siendo tú. De 'dejado en leído' a 'vaya'."
+    },
+    "rewrite": {
+      "title": "Actualiza tu borrador",
+      "description": "Mismo mensaje, entrega mejorada. Sin impuesto de vergüenza."
+    },
+    "thinking": {
+      "title": "¿Cuál es la jugada?",
+      "description": "Mapearé el siguiente movimiento para que no arruines el momento."
+    }
+  },
+  "chat": {
+    "title": "DonLeo",
+    "online": "En línea",
+    "placeholder": "Escribe un mensaje...",
+    "actions": {
+      "analyze": "Analizar chat",
+      "reply": "Sugerir respuesta",
+      "rewrite": "Reescribir esto",
+      "thinking": "¿Qué están pensando?"
+    }
+  },
+  "rizz": {
+    "title": "DonLeo",
+    "subtitle": "Sube una captura de pantalla. Obtén respuestas instantáneas que realmente funcionan.",
+    "step1": "1. Sube la captura de pantalla",
+    "step2": "2. Elige tu sabor",
+    "step3": "3. Tus sugerencias de respuesta",
+    "generating": "Preparando respuestas...",
+    "generateBtn": "Generar respuestas",
+    "moreOptions": "Obtener más opciones",
+    "emptyState": "Sube una captura de pantalla y elige un modo para comenzar",
+    "copy": "Copiar",
+    "copied": "¡Copiado!"
+  },
+  "auth": {
+    "login": {
+      "title": "Bienvenido de vuelta",
+      "subtitle": "Volvamos al juego",
+      "email": "Correo electrónico",
+      "emailPlaceholder": "tu@ejemplo.com",
+      "password": "Contraseña",
+      "passwordPlaceholder": "••••••••",
+      "remember": "Recordarme",
+      "forgot": "¿Olvidaste tu contraseña?",
+      "button": "Iniciar sesión",
+      "buttonLoading": "Iniciando sesión...",
+      "noAccount": "¿No tienes una cuenta?",
+      "signupLink": "Regístrate"
+    },
+    "signup": {
+      "title": "Crear una cuenta",
+      "subtitle": "Comencemos. Lleva tu juego de citas al siguiente nivel hoy.",
+      "name": "Nombre",
+      "namePlaceholder": "Tu nombre",
+      "email": "Correo electrónico",
+      "emailPlaceholder": "tu@ejemplo.com",
+      "password": "Contraseña",
+      "passwordPlaceholder": "••••••••",
+      "passwordHint": "Debe tener al menos 6 caracteres",
+      "agree": "Acepto los",
+      "termsOfService": "Términos de Servicio",
+      "and": "y la",
+      "privacyPolicy": "Política de Privacidad",
+      "button": "Comenzar con DonLeo",
+      "buttonLoading": "Creando cuenta...",
+      "hasAccount": "¿Ya tienes una cuenta?",
+      "signinLink": "Inicia sesión",
+      "freeTrial": "10 respuestas gratis diarias. No se requiere tarjeta de crédito."
+    },
+    "errors": {
+      "invalidEmail": "Dirección de correo inválida",
+      "weakPassword": "La contraseña es demasiado débil",
+      "emailInUse": "El correo ya está en uso",
+      "wrongCredentials": "Correo o contraseña inválidos",
+      "tooManyRequests": "Demasiados intentos. Intenta más tarde."
+    }
+  },
+  "profile": {
+    "title": "Perfil",
+    "freePlan": "Plan Gratuito",
+    "upgrade": {
+      "title": "Actualizar a Premium",
+      "description": "Respuestas ilimitadas. Soporte prioritario. Sin cerebro.",
+      "button": "Actualizar Ahora"
+    },
+    "subscription": "Suscripción",
+    "notifications": "Notificaciones",
+    "privacy": "Privacidad",
+    "settings": "Configuración",
+    "logout": "Cerrar sesión"
+  },
+  "nav": {
+    "wingman": "Wingman",
+    "rizzle": "Rizzle",
+    "profile": "Perfil",
+    "yourProfile": "Tu Perfil"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "or": "o",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "submit": "Enviar",
+    "cancel": "Cancelar",
+    "close": "Cerrar",
+    "contactUs": "Contáctanos"
+  },
+  "locales": {
+    "en": "English",
+    "es": "Español",
+    "it": "Italiano",
+    "fr": "Français",
+    "de": "Deutsch"
+  },
+  "modes": {
+    "smooth": "Suave y Directo",
+    "funny": "Divertido y Pícara",
+    "short": "Corto y Contundente",
+    "nerd": "Nerd / Cultura Pop",
+    "savage": "Salvaje e Ingenioso"
+  },
+  "debug": {
+    "hello": "Hola ES"
+  },
+  "subscription": {
+    "title": "Suscripción",
+    "subtitle": "Administra tu plan. Comienza con una prueba gratuita de 3 días.",
+    "badgePopular": "Más Popular",
+    "badgeBestValue": "Mejor Valor",
+    "savings": "Ahorra 58%",
+    "planWeekly": "Semanal",
+    "planMonthly": "Mensual",
+    "planYearly": "Anual",
+    "perWeek": "semana",
+    "perMonth": "mes",
+    "perYear": "año",
+    "trialCta": "Comienza prueba gratis de 3 días",
+    "featureUnlimited": "Respuestas ilimitadas",
+    "featureModes": "Todos los 5 sabores/modos",
+    "featurePriority": "Soporte prioritario",
+    "freePlanNote": "Plan gratis: 10 respuestas/día"
+  },
+  "legal": {
+    "privacyTitle": "Política de Privacidad",
+    "privacyIntro": "Tu privacidad es importante para nosotros. Esta política explica cómo recopilamos, usamos y protegemos tu información personal.",
+    "privacyBullets1": "Recopilamos solo la información necesaria para proporcionar nuestro servicio de coaching de citas con IA",
+    "privacyBullets2": "Usamos encriptación de extremo a extremo para todas las conversaciones y capturas de pantalla",
+    "privacyBullets3": "Nunca compartimos tus conversaciones personales con terceros",
+    "privacyBullets4": "Puedes solicitar la eliminación de tus datos en cualquier momento contactando a nuestro equipo de soporte",
+    "privacyBullets5": "Usamos cookies y tecnologías similares para mejorar tu experiencia",
+    "infoCollectionTitle": "Información que Recopilamos",
+    "dataUsageTitle": "Cómo Usamos Tus Datos",
+    "dataUsageText": "Utilizamos la información que recopilamos para proporcionar, mantener y mejorar nuestros servicios, incluyendo generar consejos de citas personalizados y respuestas de coaching.",
+    "yourRightsTitle": "Tus Derechos",
+    "yourRightsText": "Tienes derecho a acceder, actualizar o eliminar tu información personal en cualquier momento. Contáctanos a support@donleo.app para cualquier solicitud.",
+    "contactTitle": "Contáctanos",
+    "contactText": "¿Tienes preguntas? Nos encantaría saber de ti.",
+    "termsTitle": "Términos de Servicio",
+    "termsIntro": "Al usar DonLeo, aceptas estos términos de servicio.",
+    "acceptanceTitle": "Aceptación de Términos",
+    "acceptanceText": "Al acceder o usar nuestro servicio, aceptas estar vinculado a estos Términos.",
+    "accountTitle": "Responsabilidades de la Cuenta",
+    "accountBullets1": "Debes tener al menos 18 años para usar nuestro servicio",
+    "accountBullets2": "Eres responsable de mantener la confidencialidad de las credenciales de tu cuenta",
+    "accountBullets3": "Eres responsable de todas las actividades que ocurren bajo tu cuenta",
+    "accountBullets4": "No debes compartir tu cuenta con nadie más",
+    "contentTitle": "Contenido y Conducta",
+    "contentBullets1": "No puedes usar el servicio para ningún propósito ilegal o no autorizado",
+    "contentBullets2": "No intentarás obtener acceso no autorizado a nuestros sistemas",
+    "contentBullets3": "No interferir con la experiencia de otros usuarios",
+    "contentBullets4": "Eres el único responsable de todo el contenido que generas a través de nuestro asistente de IA",
+    "paymentTitle": "Suscripción y Pagos",
+    "paymentBullets1": "Ofrecemos varios planes de suscripción con diferentes duraciones y características",
+    "paymentBullets2": "Los pagos se procesan de forma segura a través de proveedores de terceros",
+    "paymentBullets3": "Puedes cancelar tu suscripción en cualquier momento desde la configuración de tu cuenta",
+    "paymentBullets4": "Los reembols se manejan caso por caso",
+    "terminationTitle": "Terminación",
+    "terminationText": "Nos reservamos el derecho de suspender o cancelar tu cuenta en cualquier momento por violación de estos términos.",
+    "aboutTitle": "Acerca de DonLeo",
+    "aboutText": "DonLeo es tu wingman de citas impulsado por IA, diseñado para ayudarte a navegar conversaciones con confianza y autenticidad.",
+    "missionTitle": "Nuestra Misión",
+    "missionText": "Ayudar a las personas a crear conexiones genuinas a través de comunicación reflexiva y personalizada.",
+    "storyTitle": "Nuestra Historia",
+    "storyText": "Fundado en 2024, DonLeo fue creado para resolver el problema común de \"¿qué digo?\" en las citas modernas. Creemos que la comunicación auténtica conduce a mejores relaciones.",
+    "teamTitle": "Nuestro Equipo",
+    "teamText": "Somos un pequeño equipo de expertos en citas e ingenieros de IA apasionados por ayudarte a encontrar conexiones significativas.",
+    "emailTitle": "Soporte por Email",
+    "emailLabel": "Email:",
+    "responseTime": "Normalmente respondemos en 24 horas.",
+    "supportHoursTitle": "Horario de Soporte",
+    "supportHoursText": "Lunes - Viernes, 9am - 6pm CET. Fines de semana y festivos pueden tardar más."
+  },
+  "company": {
+    "privacyTitle": "Política de Privacidad",
+    "privacyIntro": "Tu privacidad es importante para nosotros. Esta política explica cómo recopilamos, usamos y protegemos tu información personal.",
+    "privacyBullets1": "Recopilamos solo la información necesaria para proporcionar nuestro servicio de coaching de citas con IA",
+    "privacyBullets2": "Usamos encriptación de extremo a extremo para todas las conversaciones y capturas de pantalla",
+    "privacyBullets3": "Nunca compartimos tus conversaciones personales con terceros",
+    "privacyBullets4": "Puedes solicitar la eliminación de tus datos en cualquier momento contactando a nuestro equipo de soporte",
+    "privacyBullets5": "Usamos cookies y tecnologías similares para mejorar tu experiencia",
+    "infoCollectionTitle": "Información que Recopilamos",
+    "dataUsageTitle": "Cómo Usamos Tus Datos",
+    "dataUsageText": "Utilizamos la información que recopilamos para proporcionar, mantener y mejorar nuestros servicios, incluyendo generar consejos de citas personalizados y respuestas de coaching.",
+    "yourRightsTitle": "Tus Derechos",
+    "yourRightsText": "Tienes derecho a acceder, actualizar o eliminar tu información personal en cualquier momento. Contáctanos a support@donleo.app para cualquier solicitud.",
+    "contactTitle": "Contáctanos",
+    "contactText": "¿Tienes preguntas? Nos encantaría saber de ti.",
+    "termsTitle": "Términos de Servicio",
+    "termsIntro": "Al usar DonLeo, aceptas estos términos de servicio.",
+    "acceptanceTitle": "Aceptación de Términos",
+    "acceptanceText": "Al acceder o usar nuestro servicio, aceptas estar vinculado a estos Términos.",
+    "accountTitle": "Responsabilidades de la Cuenta",
+    "accountBullets1": "Debes tener al menos 18 años para usar nuestro servicio",
+    "accountBullets2": "Eres responsable de mantener la confidencialidad de las credenciales de tu cuenta",
+    "accountBullets3": "Eres responsable de todas las actividades que ocurren bajo tu cuenta",
+    "accountBullets4": "No debes compartir tu cuenta con nadie más",
+    "contentTitle": "Contenido y Conducta",
+    "contentBullets1": "No puedes usar el servicio para ningún propósito ilegal o no autorizado",
+    "contentBullets2": "No intentarás obtener acceso no autorizado a nuestros sistemas",
+    "contentBullets3": "No interferir con la experiencia de otros usuarios",
+    "contentBullets4": "Eres el único responsable de todo el contenido que generas a través de nuestro asistente de IA",
+    "paymentTitle": "Suscripción y Pagos",
+    "paymentBullets1": "Ofrecemos varios planes de suscripción con diferentes duraciones y características",
+    "paymentBullets2": "Los pagos se procesan de forma segura a través de proveedores de terceros",
+    "paymentBullets3": "Puedes cancelar tu suscripción en cualquier momento desde la configuración de tu cuenta",
+    "paymentBullets4": "Los reembols se manejan caso por caso",
+    "terminationTitle": "Terminación",
+    "terminationText": "Nos reservamos el derecho de suspender o cancelar tu cuenta en cualquier momento por violación de estos términos.",
+    "aboutTitle": "Acerca de DonLeo",
+    "aboutText": "DonLeo es tu wingman de citas impulsado por IA, diseñado para ayudarte a navegar conversaciones con confianza y autenticidad.",
+    "missionTitle": "Nuestra Misión",
+    "missionText": "Ayudar a las personas a crear conexiones genuinas a través de comunicación reflexiva y personalizada.",
+    "storyTitle": "Nuestra Historia",
+    "storyText": "Fundado en 2024, DonLeo fue creado para resolver el problema común de \"¿qué digo?\" en las citas modernas. Creemos que la comunicación auténtica conduce a mejores relaciones.",
+    "teamTitle": "Nuestro Equipo",
+    "teamText": "Somos un pequeño equipo de expertos en citas e ingenieros de IA apasionados por ayudarte a encontrar conexiones significativas.",
+    "emailTitle": "Soporte por Email",
+    "emailLabel": "Email:",
+    "responseTime": "Normalmente respondemos en 24 horas.",
+    "supportHoursTitle": "Horario de Soporte",
+    "supportHoursText": "Lunes - Viernes, 9am - 6pm CET. Fines de semana y festivos pueden tardar más."
+  },
+  "upload": {
+    "tapToUpload": "Toca para subir capturas",
+    "dropImagesHere": "Suelta las imágenes aquí",
+    "orDragAndDrop": "o arrastra y suelta",
+    "maxImages": "Máx. {count} imágenes"
+  },
+  "subscription": {
+    "title": "Suscripción",
+    "subtitle": "Comienza con una prueba gratuita de 3 días. Cancela cuando quieras.",
+    "secure": "Pago seguro en un clic",
+    "trialBadge": "Prueba gratis de 3 días",
+    "cta": "Comenzar prueba gratis de 3 días",
+    "thenPrice": "Luego {price}/{period}",
+    "cancelAnytime": "Cancela antes del día 3",
+    "logout": "Cerrar sesión",
+    "profileTitle": "Tu Perfil",
+    "profileNameLabel": "Nombre",
+    "profileEmailLabel": "Email",
+    "planStatus": {
+      "free": "Gratis",
+      "premium": "Premium"
+    },
+    "manageTitle": "Gestionar Suscripción",
+    "manageSubtitle": "Estás en el plan Premium",
+    "cancelSubscription": "Cancelar Suscripción",
+    "premiumActive": "Premium Activo",
+    "deleteAccount": {
+      "button": "Eliminar cuenta",
+      "warning": "Esta acción no se puede deshacer. Todos tus datos serán eliminados permanentemente.",
+      "modalTitle": "¿Eliminar Cuenta?",
+      "modalDescription": "¿Estás seguro de que quieres eliminar tu cuenta? Esto eliminará permanentemente todos tus datos y no se puede deshacer.",
+      "cancel": "Cancelar",
+      "confirm": "Eliminar",
+      "notImplemented": "No implementado aún"
+    },
+    "plans": {
+      "weekly": {
+        "name": "Semanal",
+        "period": "semana"
+      },
+      "monthly": {
+        "name": "Mensual",
+        "period": "mes",
+        "badge": "Más Popular"
+      },
+      "annual": {
+        "name": "Anual",
+        "period": "año",
+        "badge": "Mejor Valor",
+        "savePercent": "Ahorra 58%"
+      }
+    },
+    "features": {
+      "unlimited": "Generación ilimitada de respuestas",
+      "modes": "5 modos/estilos",
+      "screenshots": "Subida + análisis de screenshots",
+      "tone": "Adaptación de tono al contexto",
+      "rewrite": "Sugerencias inteligentes de reescritura",
+      "multilingual": "Respuestas multi-idioma (EN/ES/IT/FR/DE)",
+      "priority": "Velocidad de generación prioritaria",
+      "earlyAccess": "Acceso temprano a nuevos modos/features"
+    }
+  }
+}

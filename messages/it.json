@@ -1,0 +1,423 @@
+{
+  "landing": {
+    "meta": {
+      "title": "DonLeo — Il Tuo AI Dating Wingman",
+      "description": "Risposte immediate + vero coaching. DonLeo ti mantiene fluido, divertente e in controllo."
+    },
+    "header": {
+      "login": "Accedi",
+      "getStarted": "Inizia"
+    },
+    "hero": {
+      "trustUsers": "10,000+ utenti",
+      "trustRating": "4.9★",
+      "trustWorks": "Funziona davvero",
+      "titleLine1": "Smetti di pensare troppo.",
+      "titleLine2Start": "Inizia a",
+      "titleLine2Highlight": "ricevere risposte.",
+      "subtitle": "Carica uno screenshot. Ottieni risposte perfette nel tuo stile esatto. Chatta con DonLeo quando hai bisogno di un wingman.",
+      "cta": "Prova DonLeo Gratis",
+      "encrypted": "Crittografia end-to-end",
+      "notStored": "Gli screenshot non vengono mai salvati",
+      "appStore": "Scarica su",
+      "appStoreName": "App Store",
+      "googlePlay": "Disponibile su",
+      "googlePlayName": "Google Play",
+      "comingSoon": "Prossimamente"
+    },
+    "modes": {
+      "title": "Cinque sapori di stile",
+      "subtitle": "Qualsiasi sia la situazione, c'è un'atmosfera che funziona. Scegli la tua modalità, ottieni una risposta che arriva davvero.",
+      "smooth": {
+        "name": "Smooth & Diretto",
+        "description": "Confidante e chiaro. Quando si va sul serio."
+      },
+      "funny": {
+        "name": "Divertente & Scherzoso",
+        "description": "Rompi il ghiaccio. Falgh ridere (con te, non di te)."
+      },
+      "short": {
+        "name": "Breve & Incisivo",
+        "description": "Continua a muoverti. Poco sforzo, alto impatto."
+      },
+      "nerd": {
+        "name": "Nerd / Cultura Pop",
+        "description": "Trova terreno comune. Riferisci intelligente, riferisci giusto."
+      },
+      "savage": {
+        "name": "Audace & Arguto",
+        "description": "Energia audace. Quando devi fare la tua mossa."
+      }
+    },
+    "wingman": {
+      "title": "Il tuo wingman AI (che davvero capisce)",
+      "subtitle": "Bloccato su cosa dire? Osoanalizzando ogni virgola? DonLeo ti aiuta a leggere i segnali, creare risposte e rimanere fiducioso. Condividi uno screenshot o incolla il testo—ottieni coaching istantaneo + opzioni che sembrano te.",
+      "feature1Title": "Leggi l'atmosfera",
+      "feature1Desc": "Capisci cosa stanno davvero dicendo (non solo cosa hanno digitato)",
+      "feature2Title": "Ottieni opzioni, non ordini",
+      "feature2Desc": "Molteplici suggerimenti di risposta. Scegli quella che sembra giusta.",
+      "feature3Title": "Migliora le tue bozze",
+      "feature3Desc": "Riscrivi il tuo messaggio prima di inviarlo. Nessun rimpianto.",
+      "feature4Title": "Decodifica i segnali",
+      "feature4Desc": "Sap dove ti trovi. Basta giochi di indovinelli.",
+      "chatTitle": "DonLeo",
+      "chatOnline": "Online",
+      "chatMessage1": "Ehi! Ho notato che stai chattando con Sarah da qualche giorno. Come va?",
+      "chatMessage2": "Bene! Ma non sono sicuro se le interessa davvero...",
+      "chatMessage3": "Lasciami aiutare! Condividi la conversazione e ti dirò cosa sta succedendo davvero."
+    },
+    "privacy": {
+      "title": "I tuoi affari rimangono tuoi",
+      "description": "Gli screenshot vengono elaborati una volta e mai salvati. Le chat sono crittografate. Non ci alleniamo sui tuoi dati. Quello che succede in DonLeo, resta in DonLeo."
+    },
+    "howItWorks": {
+      "title": "Tre passi per lo stile",
+      "subtitle": "Dal fissare il telefono al premere invio—veloce.",
+      "step1Title": "Carica lo screenshot",
+      "step1Desc": "Condividi la conversazione a cui stai pensando troppo",
+      "step2Title": "Scegli la tua atmosfera",
+      "step2Desc": "Scegli la modalità che corrisponde al momento",
+      "step3Title": "Copia, invia, vibra",
+      "step3Desc": "Incollalo nella chat. Ce la puoi fare."
+    },
+    "pricing": {
+      "title": "Prova gratis. Aggiorna quando stai vincendo.",
+      "description": "10 risposte gratis ogni giorno. Illimitato quando sei pronto per salire di livello.",
+      "cta": "Inizia Gratis Ora"
+    },
+    "socialProof": {
+      "users": "+10,000+ utenti",
+      "rating": "Valutazione 4.9/5"
+    },
+    "footer": {
+      "tagline": "Il tuo wingman con gusto.",
+      "product": "Prodotto",
+      "features": "Caratteristiche",
+      "pricing": "Prezzi",
+      "faq": "FAQ",
+      "company": "Azienda",
+      "about": "Chi siamo",
+      "blog": "Blog",
+      "careers": "Carriere",
+      "legal": "Legale",
+      "privacy": "Privacy",
+      "terms": "Termini",
+      "contact": "Contatto",
+      "copyright": "© 2025 DonLeo. Tutti i diritti riservati."
+    }
+  },
+  "dashboard": {
+    "greeting": {
+      "morning": "Buongiorno",
+      "afternoon": "Buon pomeriggio",
+      "evening": "Buona sera"
+    },
+    "ready": "Pronto a portare il tuo gioco di dating al livello successivo?",
+    "chatCard": {
+      "title": "Chatta con DonLeo",
+      "subtitle": "Il tuo wingman AI personale è pronto ad aiutarti",
+      "online": "Online"
+    },
+    "marketing": {
+      "title": "Il tuo wingman che legge davvero la stanza.",
+      "subtitle": "Lascia il contesto. Ti dirò cosa dire, cosa NON dire e perché funziona.",
+      "pickCard": "Scegli una scheda qui sotto per iniziare."
+    },
+    "featuresTitle": "Con cosa posso aiutare?"
+  },
+  "features": {
+    "analyze": {
+      "title": "Tradurrò il sottotesto",
+      "description": "Screenshot entrano. Significato esce. (Sì, anche quel 'haha'.)"
+    },
+    "replies": {
+      "title": "3 risposte. Zero panico.",
+      "description": "Scegli l'atmosfera: smooth, divertente, audace... tu resti tu. Da 'letto senza risposta' a 'wow'."
+    },
+    "rewrite": {
+      "title": "Aggiorna la tua bozza",
+      "description": "Stesso messaggio, consegna migliorata. Nessuna tassa di imbarazzo."
+    },
+    "thinking": {
+      "title": "Qual è la mossa?",
+      "description": "Mapperò la prossima mossa così non rovini il momento."
+    }
+  },
+  "chat": {
+    "title": "DonLeo",
+    "online": "Online",
+    "placeholder": "Scrivi un messaggio...",
+    "actions": {
+      "analyze": "Analizza chat",
+      "reply": "Sugggerisci risposta",
+      "rewrite": "Riscrivi questo",
+      "thinking": "Cosa stanno pensando?"
+    }
+  },
+  "rizz": {
+    "title": "DonLeo",
+    "subtitle": "Carica uno screenshot. Ottieni risposte istantanee che funzionano davvero.",
+    "step1": "1. Carica lo screenshot",
+    "step2": "2. Scegli il tuo sapore",
+    "step3": "3. I tuoi suggerimenti di risposta",
+    "generating": "Preparando le risposte...",
+    "generateBtn": "Genera risposte",
+    "moreOptions": "Ottieni più opzioni",
+    "emptyState": "Carica uno screenshot e scegli una modalità per iniziare",
+    "copy": "Copia",
+    "copied": "Copiato!"
+  },
+  "auth": {
+    "login": {
+      "title": "Bentornato",
+      "subtitle": "Torniamo in gioco",
+      "email": "Email",
+      "emailPlaceholder": "tu@esempio.com",
+      "password": "Password",
+      "passwordPlaceholder": "••••••••",
+      "remember": "Ricordami",
+      "forgot": "Password dimenticata?",
+      "button": "Accedi",
+      "buttonLoading": "Accesso in corso...",
+      "noAccount": "Non hai un account?",
+      "signupLink": "Registrati"
+    },
+    "signup": {
+      "title": "Crea un account",
+      "subtitle": "Iniziamo. Porta il tuo gioco di dating al livello successivo oggi.",
+      "name": "Nome",
+      "namePlaceholder": "Il tuo nome",
+      "email": "Email",
+      "emailPlaceholder": "tu@esempio.com",
+      "password": "Password",
+      "passwordPlaceholder": "••••••••",
+      "passwordHint": "Deve essere di almeno 6 caratteri",
+      "agree": "Accetto i",
+      "termsOfService": "Termini di Servizio",
+      "and": "e l'",
+      "privacyPolicy": "Informativa sulla Privacy",
+      "button": "Inizia con DonLeo",
+      "buttonLoading": "Creazione account...",
+      "hasAccount": "Hai già un account?",
+      "signinLink": "Accedi",
+      "freeTrial": "10 risposte gratis al giorno. Nessuna carta di credito richiesta."
+    },
+    "errors": {
+      "invalidEmail": "Indirizzo email non valido",
+      "weakPassword": "Password troppo debole",
+      "emailInUse": "Email già in uso",
+      "wrongCredentials": "Email o password non validi",
+      "tooManyRequests": "Troppi tentativi. Riprova più tardi."
+    }
+  },
+  "profile": {
+    "title": "Profilo",
+    "freePlan": "Piano Gratuito",
+    "upgrade": {
+      "title": "Passa a Premium",
+      "description": "Risposte illimitate. Supporto prioritario. Senza pensieri.",
+      "button": "Aggiorna Ora"
+    },
+    "subscription": "Abbonamento",
+    "notifications": "Notifiche",
+    "privacy": "Privacy",
+    "settings": "Impostazioni",
+    "logout": "Esci"
+  },
+  "nav": {
+    "wingman": "Wingman",
+    "rizzle": "Rizzle",
+    "profile": "Profilo",
+    "yourProfile": "Il tuo Profilo"
+  },
+  "common": {
+    "loading": "Caricamento...",
+    "or": "oppure",
+    "back": "Indietro",
+    "next": "Avanti",
+    "submit": "Invia",
+    "cancel": "Annulla",
+    "close": "Chiudi",
+    "contactUs": "Contattaci"
+  },
+  "locales": {
+    "en": "English",
+    "es": "Español",
+    "it": "Italiano",
+    "fr": "Français",
+    "de": "Deutsch"
+  },
+  "modes": {
+    "smooth": "Smooth & Diretto",
+    "funny": "Divertente & Scherzoso",
+    "short": "Breve & Incisivo",
+    "nerd": "Nerd / Cultura Pop",
+    "savage": "Audace & Arguto"
+  },
+  "debug": {
+    "hello": "Ciao IT"
+  },
+  "legal": {
+    "privacyTitle": "Informativa sulla Privacy",
+    "privacyIntro": "La tua privacy è importante per noi. Questa politica spiega come raccogliamo, usiamo e proteggiamo le tue informazioni personali.",
+    "privacyBullets1": "Raccogliamo solo le informazioni necessarie per fornire il nostro servizio di coaching di appuntamenti con IA",
+    "privacyBullets2": "Usiamo crittografia end-to-end per tutte le conversazioni e screenshot",
+    "privacyBullets3": "Non condividiamo le tue conversazioni personali con terze parti",
+    "privacyBullets4": "Puoi richiedere la cancellazione dei tuoi dati in qualsiasi momento contattando il nostro team di supporto",
+    "privacyBullets5": "Usiamo cookie e tecnologie simili per migliorare la tua esperienza",
+    "infoCollectionTitle": "Informazioni che Raccogliamo",
+    "dataUsageTitle": "Come Usiamo i Tuoi Dati",
+    "dataUsageText": "Utilizziamo le informazioni che raccogliamo per fornire, mantenere e migliorare i nostri servizi, inclusa la generazione di consigli di incontri personalizzati e risposte di coaching.",
+    "yourRightsTitle": "I Tuoi Diritti",
+    "yourRightsText": "Hai il diritto di accedere, aggiornare o eliminare le tue informazioni personali in qualsiasi momento. Contattaci a support@donleo.app per qualsiasi richiesta.",
+    "contactTitle": "Contattaci",
+    "contactText": "Hai domande? Ci piacerebbe sapere di te.",
+    "termsTitle": "Termini di Servizio",
+    "termsIntro": "Usando DonLeo, accetti questi termini di servizio.",
+    "acceptanceTitle": "Accettazione dei Termini",
+    "acceptanceText": "Accedendo o usando il nostro servizio, accetti di essere vincolato da questi Termini.",
+    "accountTitle": "Responsabilità dell'Account",
+    "accountBullets1": "Devi avere almeno 18 anni per usare il nostro servizio",
+    "accountBullets2": "Sei responsabile del mantenere la riservatezza delle credenziali del tuo account",
+    "accountBullets3": "Sei responsabile di tutte le attività che avvengono sotto il tuo account",
+    "accountBullets4": "Non devi condividere il tuo account con nessun altro",
+    "contentTitle": "Contenuto e Condotta",
+    "contentBullets1": "Non puoi usare il servizio per scopi illegali o non autorizzati",
+    "contentBullets2": "Non cercherai di ottenere accesso non autorizzato ai nostri sistemi",
+    "contentBullets3": "Non interferirai con l'esperienza di altri utenti",
+    "contentBullets4": "Sei l'unico responsabile di tutti i contenuti che generi attraverso il nostro assistente IA",
+    "paymentTitle": "Abbonamento e Pagamenti",
+    "paymentBullets1": "Offriamo vari piani di abbonamento con diverse durate e caratteristiche",
+    "paymentBullets2": "I pagamenti vengono elaborati in modo sicuro attraverso fornitori di terze parti",
+    "paymentBullets3": "Puoi cancellare il tuo abbonamento in qualsiasi momento dalle impostazioni del tuo account",
+    "paymentBullets4": "I rimborsi vengono gestiti caso per caso",
+    "terminationTitle": "Terminazione",
+    "terminationText": "Ci riserviamo il diritto di sospendere o cancellare il tuo account in qualsiasi momento per violazione di questi termini.",
+    "aboutTitle": "Informazioni su DonLeo",
+    "aboutText": "DonLeo è il tuo wingman di dating alimentato da IA, progettato per aiutarti a navigare nelle conversazioni con sicurezza ed autenticità.",
+    "missionTitle": "La nostra Missione",
+    "missionText": "Aiutare le persone a creare connessioni autentiche attraverso comunicazione riflessiva e personalizzata.",
+    "storyTitle": "La Nostra Storia",
+    "storyText": "Fondato nel 2024, DonLeo è stato creato per risolvere il problema comune di \"cosa dico?\" nelle appuntamenti moderni. Crediamo che una comunicazione autentica porti a relazioni migliori.",
+    "teamTitle": "Il Nostro Team",
+    "teamText": "Siamo un piccolo team di esperti di appuntamenti e ingegneri IA appassionati ad aiutarti a trovare connessioni significative.",
+    "emailTitle": "Supporto Email",
+    "emailLabel": "Email:",
+    "responseTime": "Di solito rispondiamo entro 24 ore.",
+    "supportHoursTitle": "Orari di Supporto",
+    "supportHoursText": "Lun - Ven, 9am - 6pm CET. Weekend e festivi possono richiedere più tempo."
+  },
+  "company": {
+    "privacyTitle": "Informativa sulla Privacy",
+    "privacyIntro": "La tua privacy è importante per noi. Questa politica spiega come raccogliamo, usiamo e proteggiamo le tue informazioni personali.",
+    "privacyBullets1": "Raccogliamo solo le informazioni necessarie per fornire il nostro servizio di coaching di appuntamenti con IA",
+    "privacyBullets2": "Usiamo crittografia end-to-end per tutte le conversazioni e screenshot",
+    "privacyBullets3": "Non condividiamo le tue conversazioni personali con terze parti",
+    "privacyBullets4": "Puoi richiedere la cancellazione dei tuoi dati in qualsiasi momento contattando il nostro team di supporto",
+    "privacyBullets5": "Usiamo cookie e tecnologie simili per migliorare la tua esperienza",
+    "infoCollectionTitle": "Informazioni che Raccogliamo",
+    "dataUsageTitle": "Come Usiamo i Tuoi Dati",
+    "dataUsageText": "Utilizziamo le informazioni che raccogliamo per fornire, mantenere e migliorare i nostri servizi, inclusa la generazione di consigli di incontri personalizzati e risposte di coaching.",
+    "yourRightsTitle": "I Tuoi Diritti",
+    "yourRightsText": "Hai il diritto di accedere, aggiornare o eliminare le tue informazioni personali in qualsiasi momento. Contattaci a support@donleo.app per qualsiasi richiesta.",
+    "contactTitle": "Contattaci",
+    "contactText": "Hai domande? Ci piacerebbe sapere di te.",
+    "termsTitle": "Termini di Servizio",
+    "termsIntro": "Usando DonLeo, accetti questi termini di servizio.",
+    "acceptanceTitle": "Accettazione dei Termini",
+    "acceptanceText": "Accedendo o usando il nostro servizio, accetti di essere vincolato da questi Termini.",
+    "accountTitle": "Responsabilità dell'Account",
+    "accountBullets1": "Devi avere almeno 18 anni per usare il nostro servizio",
+    "accountBullets2": "Sei responsabile del mantenere la riservatezza delle credenziali del tuo account",
+    "accountBullets3": "Sei responsabile di tutte le attività che avvengono sotto il tuo account",
+    "accountBullets4": "Non devi condividere il tuo account con nessun altro",
+    "contentTitle": "Contenuto e Condotta",
+    "contentBullets1": "Non puoi usare il servizio per scopi illegali o non autorizzati",
+    "contentBullets2": "Non cercherai di ottenere accesso non autorizzato ai nostri sistemi",
+    "contentBullets3": "Non interferirai con l'esperienza di altri utenti",
+    "contentBullets4": "Sei l'unico responsabile di tutti i contenuti che generi attraverso il nostro assistente IA",
+    "paymentTitle": "Abbonamento e Pagamenti",
+    "paymentBullets1": "Offriamo vari piani di abbonamento con diverse durate e caratteristiche",
+    "paymentBullets2": "I pagamenti vengono elaborati in modo sicuro attraverso fornitori di terze parti",
+    "paymentBullets3": "Puoi cancellare il tuo abbonamento in qualsiasi momento dalle impostazioni del tuo account",
+    "paymentBullets4": "I rimborsi vengono gestiti caso per caso",
+    "terminationTitle": "Terminazione",
+    "terminationText": "Ci riserviamo il diritto di sospendere o cancellare il tuo account in qualsiasi momento per violazione di questi termini.",
+    "aboutTitle": "Informazioni su DonLeo",
+    "aboutText": "DonLeo è il tuo wingman di dating alimentato da IA, progettato per aiutarti a navigare nelle conversazioni con sicurezza ed autenticità.",
+    "missionTitle": "La nostra Missione",
+    "missionText": "Aiutare le persone a creare connessioni autentiche attraverso comunicazione riflessiva e personalizzata.",
+    "storyTitle": "La Nostra Storia",
+    "storyText": "Fondato nel 2024, DonLeo è stato creato per risolvere il problema comune di \"cosa dico?\" nelle appuntamenti moderni. Crediamo che una comunicazione autentica porti a relazioni migliori.",
+    "teamTitle": "Il Nostro Team",
+    "teamText": "Siamo un piccolo team di esperti di appuntamenti e ingegneri IA appassionati ad aiutarti a trovare connessioni significative.",
+    "emailTitle": "Supporto Email",
+    "emailLabel": "Email:",
+    "responseTime": "Di solito rispondiamo entro 24 ore.",
+    "supportHoursTitle": "Orari di Supporto",
+    "supportHoursText": "Lun - Ven, 9am - 6pm CET. Weekend e festivi possono richiedere più tempo."
+  },
+  "upload": {
+    "tapToUpload": "Tocca per caricare screenshot",
+    "dropImagesHere": "Rilascia le immagini qui",
+    "orDragAndDrop": "oppure trascina e rilascia",
+    "maxImages": "Max {count} immagini"
+  },
+  "subscription": {
+    "title": "Abbonamento",
+    "subtitle": "Inizia con una prova gratuita di 3 giorni. Cancella quando vuoi.",
+    "secure": "Pagamento sicuro con un clic",
+    "trialBadge": "Prova gratis di 3 giorni",
+    "cta": "Inizia la prova gratis di 3 giorni",
+    "thenPrice": "Poi {price}/{period}",
+    "cancelAnytime": "Cancella prima del giorno 3",
+    "logout": "Esci",
+    "profileTitle": "Il Tuo Profilo",
+    "profileNameLabel": "Nome",
+    "profileEmailLabel": "Email",
+    "planStatus": {
+      "free": "Gratis",
+      "premium": "Premium"
+    },
+    "manageTitle": "Gestisci Abbonamento",
+    "manageSubtitle": "Sei sul piano Premium",
+    "cancelSubscription": "Cancella Abbonamento",
+    "premiumActive": "Premium Attivo",
+    "deleteAccount": {
+      "button": "Elimina account",
+      "warning": "Questa azione non può essere annullata. Tutti i tuoi dati verranno eliminati permanentemente.",
+      "modalTitle": "Eliminare l'Account?",
+      "modalDescription": "Sei sicuro di voler eliminare il tuo account? Questo eliminerà permanentemente tutti i tuoi dati e non può essere annullato.",
+      "cancel": "Annulla",
+      "confirm": "Elimina",
+      "notImplemented": "Non ancora implementato"
+    },
+    "plans": {
+      "weekly": {
+        "name": "Settimanale",
+        "period": "settimana"
+      },
+      "monthly": {
+        "name": "Mensile",
+        "period": "mese",
+        "badge": "Più Popolare"
+      },
+      "annual": {
+        "name": "Annuale",
+        "period": "anno",
+        "badge": "Miglior Valore",
+        "savePercent": "Risparmia 58%"
+      }
+    },
+    "features": {
+      "unlimited": "Generazione illimitata di risposte",
+      "modes": "5 modalità/stili",
+      "screenshots": "Caricamento + analisi screenshot",
+      "tone": "Adattamento tono al contesto",
+      "rewrite": "Suggerimenti intelligenti di riscrittura",
+      "multilingual": "Risposte multi-lingua (EN/ES/IT/FR/DE)",
+      "priority": "Velocità di generazione prioritaria",
+      "earlyAccess": "Accesso anticipato a nuove modalità/funcionalità"
+    }
+  }
+}
